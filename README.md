@@ -1,12 +1,15 @@
 <h1 align="center">
   <a href="https://www.mysql.com/products/workbench/" target="_blank">
-    <img src="https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python/blob/main/Images/stackoverflow_logo.png" alt="StackOverflow" width="50" height="50" style="vertical-align: middle;"/>
+    <img src="https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/blob/main/images/mysql_logo.jpg" alt="MySQL" width="50" height="50" style="vertical-align: middle;"/>
   </a>
   <strong>A Deep Dive into Indian Hardware Company's Sales Performance: Profit and Revenue Analysis with SQL and Tableau"</strong>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python/blob/main/Images/768px-Python.svg.png" alt="Python" width="50" height="50" style="vertical-align: middle;"/>
+  <a href="https://public.tableau.com/app/profile/roopa.d.moorthy/viz/Sales_Insight_AtliQ/ProfitAnalysis" target="_blank">
+    <img src="https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/blob/main/images/tableau_logo.jpg" alt="Tableau" width="50" height="50" style="vertical-align: middle;"/>
   </a>
 </h1>
+
+
+<p  align="center"><img width="80%" src="https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/blob/main/images/salesinsight.PNG" /></a></p>
 
 <h4>In this project, I tackled a business problem faced by an India-based hardware company by employing a data-driven approach, using SQL and Tableau to provide actionable insights and effective solutions.</h4>
 
@@ -38,13 +41,7 @@ Non-complex and interactive dashboard uncovering sales insights with latest data
 
 <h3> Data Analysis -Approach </h3>
 
-
-
-
-
-
-
-
+<p  align="center"> <img width="80%" src="https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/blob/main/images/approach.PNG" /></a></p>
 
 
 ### Setup Process
@@ -102,6 +99,27 @@ and transactions.market_code="Mark001";`
   
 ### Tableau Public Dashboards: [Revenue & Profit Analysis](https://public.tableau.com/app/profile/roopa.d.moorthy/viz/Sales_Insight_AtliQ/ProfitAnalysis)  <a href="https://public.tableau.com/app/profile/roopa.d.moorthy/viz/Sales_Insight_AtliQ/ProfitAnalysis" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="20"/> </a>
 
-#### Creating Star Schema in Tableau
+#### Create Star Schema in Tableau
 	
-<p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
+<p  align="center"><img width="80%" src="https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/blob/main/images/star_schema.PNG" /></a></p>
+
+#### Tableau Dashboard - [Revenue Analysis](https://public.tableau.com/app/profile/roopa.d.moorthy/viz/Sales_Insight_AtliQ/ProfitAnalysis)
+	
+<p  align="center"><a href="https://public.tableau.com/app/profile/roopa.d.moorthy/viz/Sales_Insight_AtliQ/ProfitAnalysis"><img width="100%" src="https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/blob/main/images/revenue%20analysis.PNG" /></a></p>
+
+#### Tableau Dashboard - [Profit Analysis](https://public.tableau.com/app/profile/roopa.d.moorthy/viz/Sales_Insight_AtliQ/ProfitAnalysis)
+	
+<p  align="center"><a href="https://public.tableau.com/app/profile/roopa.d.moorthy/viz/Sales_Insight_AtliQ/ProfitAnalysis"><img width="100%" src="https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/blob/main/images/profit%20analysis.PNG" /></a></p>
+  
+## Project References: 🔗
+
+|**Sr.No. 🔢**|**References 👨‍💻**| **Links :link:**|
+|------|--------------------|---------------------|
+|1| **Tableau Project Dashboard :** Sales Insights | [Dashboard](https://public.tableau.com/app/profile/roopa.d.moorthy/viz/Sales_Insight_AtliQ/ProfitAnalysis)| 
+|2| MySQL installation | [Javatpoint](https://www.javatpoint.com/how-to-install-mysql) |
+|3| OLTP & OLAP | [Geeks for Geeks](https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/) | 
+|4| Star Schema: Fact Table & Dimension Table | [Microsoft docs.](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema) | 
+
+## Check out my other projects too : :mag: 👨‍💻 🛰️
+
+<code>[AnalyzingDevSurvey-Data-analysis-using-Python ](https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python)</code> 📊
