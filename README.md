@@ -120,6 +120,9 @@ and transactions.market_code="Mark001";`
 |3| OLTP & OLAP | [Geeks for Geeks](https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/) | 
 |4| Star Schema: Fact Table & Dimension Table | [Microsoft docs.](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema) | 
 
+
 ## Check out my other projects too : :mag: 👨‍💻 🛰️
 
-<code>[AnalyzingDevSurvey-Data-analysis-using-Python ](https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python)</code> 📊
+<code>[Data-Driven Marketing Strategies for Rider Conversion : Rider Usage Analysis with R and Tableau](https://github.com/roopadm/Google-Capstone-Project-R-Tableau-Cyclistic/edit/main/README.md)</code> 📊
+
+<code>[An Analysis of Developer Communities: Insights from the 2022 Stack Overflow global Survey](https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python)</code> 📊
