@@ -2,7 +2,7 @@
   <a href="https://www.mysql.com/products/workbench/" target="_blank">
     <img src="https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/blob/main/images/mysql_logo.jpg" alt="MySQL" width="50" height="50" style="vertical-align: middle;"/>
   </a>
-  <strong>A Deep Dive into Indian Hardware Company's Sales Performance: Profit and Revenue Analysis with SQL and Tableau"</strong>
+  <strong>A Deep Dive into Indian Hardware Company's Sales Performance: Profit and Revenue Analysis with SQL and Tableau</strong>
   <a href="https://public.tableau.com/app/profile/roopa.d.moorthy/viz/Sales_Insight_AtliQ/ProfitAnalysis" target="_blank">
     <img src="https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/blob/main/images/tableau_logo.jpg" alt="Tableau" width="50" height="50" style="vertical-align: middle;"/>
   </a>
